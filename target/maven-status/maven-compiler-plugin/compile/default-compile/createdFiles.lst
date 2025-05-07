@@ -1,0 +1,13 @@
+com\mycompany\Franquicias\controller\ProductoController.class
+com\mycompany\Franquicias\repository\ProductoRepository.class
+com\mycompany\Franquicias\model\Producto.class
+com\mycompany\Franquicias\model\Sucursal.class
+com\mycompany\Franquicias\model\Franquicia.class
+com\mycompany\Franquicias\service\FranquiciaService.class
+com\mycompany\Franquicias\controller\FranquiciaController.class
+com\mycompany\Franquicias\service\SucursalService.class
+com\mycompany\Franquicias\service\ProductoService.class
+com\mycompany\Franquicias\repository\FranquiciaRepository.class
+com\mycompany\Franquicias\controller\SucursalController.class
+com\mycompany\Franquicias\FranquiciasApplication.class
+com\mycompany\Franquicias\repository\SucursalRepository.class

@@ -26,7 +26,7 @@ IMPORTANTE: Si se modifican las credenciales es importante modificarlas tambien 
 
 Se podra ver la ejecucion correcta ejecutando el comando "docker ps"
 
-2. Una vez inicializado el contenedor con MySql para la Base de datos se podra proceder a ejecutar el mvn y se podra proceder a probar las APIS de Forma Local
+2. Una vez inicializado el contenedor con MySql para la Base de datos se podra proceder a ejecutar el proyecto, para esto nos ubicaremos dentro de la carpeta target y ejecutaremos el comanto "java -jar Franquicias-0.0.1-SNAPSHOT.jar", el proyecto inicializara y se podra proceder a probar las APIS de Forma Local
 
 # 📦 Endpoints
 

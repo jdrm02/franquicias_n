@@ -69,3 +69,7 @@ Se adjunta un coleccion Postman (json) para ser importada con los endpoints deta
     Se debera reemplazar "id_sucursal" por el ID generado en el api de crear sucursales
 
 La coleccion se puede encontrar en el archivo FRANQUICIAS.postman_collection.json
+
+# 📦 Despliegue AWS
+
+Se adjunta un ejemplo de archivo yml (no funcional) llamado deploy.yml en conjunto con el archivo LambdaHandler.java en la ruta src\main\java\com\mycompany\Franquicias que seria lo necesario para realizar un desplieuge en AWS haciendo uso de Lambda y Api Gateway, tambien se derian modificar las credenciales del archivo application.properties ubicado en la ruta src\main\resources para apuntar a un RDS

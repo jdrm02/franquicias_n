@@ -7,6 +7,7 @@ com\mycompany\Franquicias\service\FranquiciaService.class
 com\mycompany\Franquicias\controller\FranquiciaController.class
 com\mycompany\Franquicias\service\SucursalService.class
 com\mycompany\Franquicias\service\ProductoService.class
+com\mycompany\Franquicias\LambdaHandler.class
 com\mycompany\Franquicias\repository\FranquiciaRepository.class
 com\mycompany\Franquicias\controller\SucursalController.class
 com\mycompany\Franquicias\FranquiciasApplication.class
